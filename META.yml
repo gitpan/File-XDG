@@ -3,7 +3,7 @@ abstract: 'Basic implementation of the XDG base directory specification'
 author:
   - 'Kiyoshi Aman <kiyoshi.aman@gmail.com>'
 build_requires: {}
-dynamic_config: 0
+dynamic_config: 1
 generated_by: 'Module::Build version 0.4003, CPAN::Meta::Converter version 2.120630'
 license: perl
 meta-spec:
